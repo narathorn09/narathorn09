@@ -108,6 +108,67 @@ Quick setup:
 - Portfolio: <YOUR_WEBSITE_URL>
 - LinkedIn: <YOUR_LINKEDIN_URL>
 
+
+<!-- Profile README powered by dynamic cards that fetch from GitHub -->
+
+<div align="center">
+
+# <YOUR NAME>
+
+</div>
+
+## Tech stack from my repositories
+
+<!-- Languages across all public repos -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=10"
+    alt="Top languages"
+  />
+</p>
+
+<!-- Repos per language (categorical view) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narathorn09&theme=default"
+    alt="Repos per language"
+  />
+</p>
+
+<!-- Most-commit language (activity-weighted) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=narathorn09&theme=default"
+    alt="Most commit language"
+  />
+</p>
+
+## Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true"
+    alt="Streak"
+  />
+</p>
+
+---
+
+## Tech stack (auto text, optional)
+
+<!-- If you use the workflow/scripts I sent earlier, this block will be updated -->
+<!-- STACK_START -->
+loading...
+<!-- STACK_END -->
+
+
 <!--
 Extras to consider:
 - Recent blog posts via GitHub Action
