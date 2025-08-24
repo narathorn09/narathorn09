@@ -7,6 +7,10 @@ Quick setup:
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=black&center=true&vCenter=true&width=500&lines=Hello!+I%27m+FAN." alt="typing">
+</p>
+
 # Narathorn Noophum
 
 Code is my life.
@@ -62,5 +66,3 @@ Code is my life.
     <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true" alt="streak-stats">
   </a>
 </p>
-
----
