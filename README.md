@@ -7,17 +7,15 @@ Quick setup:
 
 <div align="center">
 
-# <YOUR_NAME_OR_HANDLE>
+# Narathorn Noophum
 
-<YOUR_SHORT_TAGLINE_OR_ROLE>
+Code is my life.
 
 [![Profile views](https://komarev.com/ghpvc/?username=narathorn09&label=views&style=flat)](#)
 [![Followers](https://img.shields.io/github/followers/narathorn09?style=flat)](#)
 [![Gists](https://img.shields.io/badge/gists-visit-000)](https://gist.github.com/narathorn09)
 [![Website](https://img.shields.io/badge/website-visit-000)](<YOUR_WEBSITE_URL>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_URL>)
-[![X](https://img.shields.io/badge/X-follow-111?logo=x&logoColor=white)](<YOUR_X_URL>)
-[![Email](https://img.shields.io/badge/email-contact-444?logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL>)
+[![Email](https://img.shields.io/badge/email-contact-444?logo=gmail&logoColor=white)](mailto:narathorn.work@gmail.com)
 
 </div>
 
@@ -26,28 +24,26 @@ Quick setup:
 <!-- Use 🧰 badges you actually use. Add or remove freely. -->
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
+**CSS**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white)
 
 **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -56,10 +52,7 @@ Quick setup:
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 **Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
