@@ -73,7 +73,7 @@ Quick setup:
 
 <p align="center">
   <a href="https://github.com/narathorn09">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true&theme=transparent" alt="stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" alt="stats">
   </a>
   <a href="https://github.com/narathorn09">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="top-langs">
@@ -85,20 +85,6 @@ Quick setup:
     <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true&theme=transparent" alt="streak-stats">
   </a>
 </p>
-
-<!-- Optional: Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies">
-</p>
-
----
-
-## Featured Projects
-
-<!-- Pin your best repos -->
-- 🔹 [<REPO_1_NAME>](https://github.com/narathorn09/<REPO_1_NAME>) — <one line value>
-- 🔹 [<REPO_2_NAME>](https://github.com/narathorn09/<REPO_2_NAME>) — <one line value>
-- 🔹 [<REPO_3_NAME>](https://github.com/narathorn09/<REPO_3_NAME>) — <one line value>
 
 ---
 
