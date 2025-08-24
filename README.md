@@ -5,6 +5,13 @@ Quick setup:
 3) Remove stacks you don't use.
 -->
 
+<!-- Auto theme banner (BG switches with browser theme) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='220'><rect width='100%' height='100%' fill='%230B0D0E'/></svg>">
+  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='220'><rect width='100%' height='100%' fill='%23FFFFFF'/></svg>">
+  <img alt="theme banner" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='220'><rect width='100%' height='100%' fill='%23FFFFFF'/></svg>" width="100%">
+</picture>
+
 <div align="center">
 
 # <YOUR_NAME_OR_HANDLE>
@@ -21,47 +28,57 @@ Quick setup:
 
 </div>
 
+---
+
+## Quick Links
+
+<p align="center">
+  <a href="https://github.com/narathorn09?tab=repositories">Repos</a> •
+  <a href="#tech-stack">Tech</a> •
+  <a href="#github-stats">Stats</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</p>
+
 ## Tech Stack
 
-<!-- Use 🧰 badges you actually use. Add or remove freely. -->
-
-**Languages**
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-**Backend**
+**Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
-**Databases**
+**Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-**DevOps**
+**DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
-**Cloud**
+**Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 
-**Tools**
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -73,29 +90,43 @@ Quick setup:
 
 <p align="center">
   <a href="https://github.com/narathorn09">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" alt="stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" alt="stats">
+    </picture>
   </a>
   <a href="https://github.com/narathorn09">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=8" alt="top-langs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&theme=transparent&langs_count=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=8">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=8" alt="top-langs">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/narathorn09">
-    <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true" alt="streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=narathorn09&hide_border=true&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=narathorn09&hide_border=true">
+      <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true" alt="streak-stats">
+    </picture>
   </a>
 </p>
 
-<!-- Optional: Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=onedark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies">
+  </picture>
 </p>
 
 ---
 
 ## Featured Projects
 
-<!-- Pin your best repos -->
 - 🔹 [<REPO_1_NAME>](https://github.com/narathorn09/<REPO_1_NAME>) — <one line value>
 - 🔹 [<REPO_2_NAME>](https://github.com/narathorn09/<REPO_2_NAME>) — <one line value>
 - 🔹 [<REPO_3_NAME>](https://github.com/narathorn09/<REPO_3_NAME>) — <one line value>
@@ -104,6 +135,12 @@ Quick setup:
 
 ## Contact
 
-- Email: <YOUR_EMAIL>
-- Portfolio: <YOUR_WEBSITE_URL>
-- LinkedIn: <YOUR_LINKEDIN_URL>
+- Email: <YOUR_EMAIL>  
+- Portfolio: <YOUR_WEBSITE_URL>  
+- LinkedIn: <YOUR_LINKEDIN_URL>  
+
+<!--
+Notes:
+- The banner uses <picture> + prefers-color-scheme. This is the only safe way to "change BG" on GitHub README.
+- The stats/trophies also swap themes with <picture>.
+-->
