@@ -8,12 +8,12 @@ Quick setup:
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=black&center=true&vCenter=true&width=500&lines=Hello!+I%27m+FAN." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=22&lines=Hello!+I%27m+FAN." alt="typing">
 </p>
 
 # Narathorn Noophum
 
-Code is my life.
+Coding is my life.
 
 [![Profile views](https://komarev.com/ghpvc/?username=narathorn09&label=views&style=flat)](#)
 [![Followers](https://img.shields.io/github/followers/narathorn09?style=flat)](#)
