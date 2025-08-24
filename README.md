@@ -14,7 +14,7 @@ Code is my life.
 [![Profile views](https://komarev.com/ghpvc/?username=narathorn09&label=views&style=flat)](#)
 [![Followers](https://img.shields.io/github/followers/narathorn09?style=flat)](#)
 [![Website](https://img.shields.io/badge/website-visit-000)](https://narathorn09.vercel.app/)
-[![Email](https://img.shields.io/badge/email-contact-444?logo=gmail&logoColor=white)](mailto:narathorn.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-contact-444?logo=gmail&logoColor=white)](mailto:narathorn.work@gmail.com)
 
 </div>
 
@@ -22,17 +22,15 @@ Code is my life.
 
 <!-- Use 🧰 badges you actually use. Add or remove freely. -->
 
-**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-47A248?logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -65,9 +63,3 @@ Code is my life.
 </p>
 
 ---
-
-## Contact
-
-- Email: <YOUR_EMAIL>
-- Portfolio: <YOUR_WEBSITE_URL>
-- LinkedIn: <YOUR_LINKEDIN_URL>
