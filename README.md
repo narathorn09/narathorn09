@@ -11,9 +11,9 @@ Quick setup:
 
 <YOUR_SHORT_TAGLINE_OR_ROLE>
 
-[![Profile views](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&label=views&style=flat)](#)
-[![Followers](https://img.shields.io/github/followers/<YOUR_USERNAME>?style=flat)](#)
-[![Gists](https://img.shields.io/badge/gists-visit-000)](https://gist.github.com/<YOUR_USERNAME>)
+[![Profile views](https://komarev.com/ghpvc/?username=narathorn09&label=views&style=flat)](#)
+[![Followers](https://img.shields.io/github/followers/narathorn09?style=flat)](#)
+[![Gists](https://img.shields.io/badge/gists-visit-000)](https://gist.github.com/narathorn09)
 [![Website](https://img.shields.io/badge/website-visit-000)](<YOUR_WEBSITE_URL>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_URL>)
 [![X](https://img.shields.io/badge/X-follow-111?logo=x&logoColor=white)](<YOUR_X_URL>)
@@ -72,23 +72,23 @@ Quick setup:
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/<YOUR_USERNAME>">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" alt="stats">
+  <a href="https://github.com/narathorn09">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=narathorn09&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" alt="stats">
   </a>
-  <a href="https://github.com/<YOUR_USERNAME>">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true&langs_count=8" alt="top-langs">
+  <a href="https://github.com/narathorn09">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=8" alt="top-langs">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/<YOUR_USERNAME>">
-    <img height="165" src="https://streak-stats.demolab.com?user=<YOUR_USERNAME>&hide_border=true" alt="streak-stats">
+  <a href="https://github.com/narathorn09">
+    <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true" alt="streak-stats">
   </a>
 </p>
 
 <!-- Optional: Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=narathorn09&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies">
 </p>
 
 ---
@@ -96,9 +96,9 @@ Quick setup:
 ## Featured Projects
 
 <!-- Pin your best repos -->
-- 🔹 [<REPO_1_NAME>](https://github.com/<YOUR_USERNAME>/<REPO_1_NAME>) — <one line value>
-- 🔹 [<REPO_2_NAME>](https://github.com/<YOUR_USERNAME>/<REPO_2_NAME>) — <one line value>
-- 🔹 [<REPO_3_NAME>](https://github.com/<YOUR_USERNAME>/<REPO_3_NAME>) — <one line value>
+- 🔹 [<REPO_1_NAME>](https://github.com/narathorn09/<REPO_1_NAME>) — <one line value>
+- 🔹 [<REPO_2_NAME>](https://github.com/narathorn09/<REPO_2_NAME>) — <one line value>
+- 🔹 [<REPO_3_NAME>](https://github.com/narathorn09/<REPO_3_NAME>) — <one line value>
 
 ---
 
