@@ -17,7 +17,6 @@ Coding is my life.
 
 [![Profile views](https://komarev.com/ghpvc/?username=narathorn09&label=views&style=flat)](#)
 [![Followers](https://img.shields.io/github/followers/narathorn09?style=flat)](#)
-[![Website](https://img.shields.io/badge/website-visit-000)](https://narathorn09.vercel.app/)
 [![Gmail](https://img.shields.io/badge/gmail-contact-444?logo=gmail&logoColor=white)](mailto:narathorn.work@gmail.com)
 
 </div>
@@ -58,11 +57,5 @@ Coding is my life.
   </a>
   <a href="https://github.com/narathorn09">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathorn09&layout=compact&hide_border=true&langs_count=8" alt="top-langs">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/narathorn09">
-    <img height="165" src="https://streak-stats.demolab.com?user=narathorn09&hide_border=true" alt="streak-stats">
   </a>
 </p>
