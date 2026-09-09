@@ -2,7 +2,7 @@
 
 # Narathorn Noophum
 
-**Full-stack Developer · AI Engineer** — Thailand
+**Full-stack Developer · AI Engineer**
 
 Building web applications and LLM-powered products.
 
