@@ -9,8 +9,6 @@ Building web applications and LLM-powered products.
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-narathorn.work@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:narathorn.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DOMAIN.com)
 [![Followers](https://img.shields.io/github/followers/narathorn09?style=flat-square&label=Followers&labelColor=1a1a1a&color=1a1a1a)](https://github.com/narathorn09?tab=followers)
 
 </div>
